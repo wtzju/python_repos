@@ -1,2 +1,0 @@
-aws-encryption-sdk-cli
-pytest
