@@ -1,7 +1,0 @@
-greengrasssdk.Lambda module
-===========================
-
-.. automodule:: greengrasssdk.Lambda
-    :members:
-    :undoc-members:
-    :show-inheritance:
