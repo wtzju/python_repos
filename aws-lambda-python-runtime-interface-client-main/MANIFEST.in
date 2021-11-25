@@ -1,9 +1,0 @@
-include README.md
-include LICENSE
-include THIRD-PARTY-LICENSES
-include requirements/base.txt
-include awslambdaric/runtime_client.cpp
-recursive-include scripts *
-recursive-include deps *
-
-prune tests
