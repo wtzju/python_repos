@@ -1,5 +1,0 @@
-include LICENSE
-include requirements/*
-recursive-include aws_lambda_builders/workflows *
-prune tests
-

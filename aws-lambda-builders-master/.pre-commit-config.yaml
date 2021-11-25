@@ -1,9 +1,0 @@
-# black is in dev.txt, so local repo is used here.
-repos:
-- repo: local
-  hooks:
-    - id: black
-      name: black
-      entry: black
-      language: system
-      types: [python]

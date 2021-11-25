@@ -1,2 +1,0 @@
-rootProject.name = 'multi-build'
-include 'lambda1', 'lambda2', 'common'
